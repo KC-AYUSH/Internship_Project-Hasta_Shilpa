@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221147641802",
+    "project_id": "hasta-shilpa-2d989",
+    "storage_bucket": "hasta-shilpa-2d989.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221147641802:android:be449b730d018e22250133",
+        "android_client_info": {
+          "package_name": "com.app.hastashilpa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUEHkSyGp-gcpjOVdF1sR5zo8pDhMcq9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
